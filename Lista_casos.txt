@@ -1,0 +1,7 @@
+01. INMET - Todas 
+02. Reanalise (GPCC + MERRA)
+03. Igual ao 02, 
+.mas com mudanças nos Kcs -> Todos (exceto Baixo) com valor de 0.88
+. correção do arquivo de áreas, colocando 0 quando o coeficiente de referencia era 0
+05. Dados de reanálise e parâmetros pra dar positivo e melhorar o fit dos coeficientes
+06. Igual ao 5, mas voltando com os dados do INMET
